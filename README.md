@@ -41,7 +41,7 @@
     6.1. List the running sessions:
 
     ```bash
-    session -ls
+    screen -ls
     ```
 
     * Outputs something like this
